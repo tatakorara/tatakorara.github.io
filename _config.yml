@@ -12,8 +12,7 @@ description: "20代退休养老"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/Wechat
-3.jpeg
+avatar: https://github.com/lemonchann/images/Wechat3.jpeg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/images/WechatIMG3.jpeg
 
@@ -50,15 +49,13 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  #twitter: 
+  twitter: 
   youtube:
 
-# Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: # fromendworld
+disqus: 
 
 # Gitalk
 gitalk:
@@ -75,10 +72,10 @@ gitalk:
 url: https://tatakorara.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://tatakorara.github.io/repository-name)
+# (http://tatakorara.github.io)
 # and NOT your User repository (http://tatakorara.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: 
+# baseurl: http://tatakorara.github.io
 
 #
 # !! You don't need to change any of the configuration flags below !!
